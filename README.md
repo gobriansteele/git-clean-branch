@@ -13,3 +13,5 @@ Then add `git-clean-branch` to your plugins in `.zshrc`:
 ```sh
 plugins=(git yarn brew git-clean-branch)
 ```
+
+To use, simply navigate into any git directory and run `git-clean-branch`.
